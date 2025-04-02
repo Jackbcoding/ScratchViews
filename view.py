@@ -9,7 +9,6 @@ viewAmount = 1000
 
 # Estimate time to complete
 timeEstimate = ((viewAmount * 80) / 60)
-print("Estimated time to complete " + str(viewAmount) + " views: " + str(timeEstimate) + " minutes.")
 
 # Initialize session and project
 waitTime = 0
