@@ -4,7 +4,7 @@ import scratchattach as sa
 from datetime import datetime
 
 # Get project ID and view amount from user
-projectID = 1147312565
+projectID = 1147312565 # EDIT THESE TO YOUR OWN PROGECT
 viewAmount = 1000
 
 # Estimate time to complete
