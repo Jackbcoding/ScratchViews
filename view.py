@@ -9,7 +9,7 @@ viewAmount = 1000
 
 # Estimate time to complete
 timeEstimate = ((viewAmount * 80) / 60)
-
+print(timeEstimate)
 # Initialize session and project
 waitTime = 0
 session = sa.get_user("griffpatch")  # Set this to a user that is NOT the owner of the project you are view boting
